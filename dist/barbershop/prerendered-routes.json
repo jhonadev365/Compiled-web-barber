@@ -1,0 +1,15 @@
+{
+  "routes": [
+    "/",
+    "/Bookings",
+    "/Contacts",
+    "/Users",
+    "/Users/Dashboard",
+    "/Users/Dashboard/Barbers",
+    "/Users/Dashboard/Boxes",
+    "/Users/Dashboard/ReportBoxes",
+    "/Users/Dashboard/ReservationsBarbers",
+    "/Users/Dashboard/Users",
+    "/Users/Login"
+  ]
+}
